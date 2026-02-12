@@ -1,0 +1,5 @@
+{
+  "name": "SchoolWallet",
+  "description": "A modern internal currency wallet for school systems featuring transfers and AI assistance.",
+  "requestFramePermissions": []
+}
